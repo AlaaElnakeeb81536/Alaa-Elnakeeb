@@ -1,6 +1,9 @@
 # Alaa-Elnakeeb
-Hi 👋, I'm ALaa Elnakeeb
-Trainee at the sparks foundation | ML and DSA core team member @GDSC|Trainee in ITI  |interested to grow up in Data science and AI.
+Hi 👋, I'm ALaa Elnakeeb.
+1-i am Trainee at the sparks foundation .
+2- ML and DSA core team member @GDSC.
+3-Trainee in ITI .
+4-interested to grow up in Data science and AI.
 
 📫 How to reach me :
 Gmail:alaaelnakeeb81@gmail.com.
