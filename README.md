@@ -4,4 +4,5 @@ Trainee at the sparks foundation | ML and DSA core team member @GDSC|Trainee in 
 
 📫 How to reach me :
 alaaelnakeeb81@gmail.com
+
 mylinkedin:linkedin.com/in/alaa-elnakeeb-3784a5225
